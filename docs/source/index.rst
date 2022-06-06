@@ -3,16 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Linux Tutorial's documentation!
+Guide to Install OSEDA tools
 ==========================================
 
-This documentation describes the steps to install the following opensource EDA tools and the Skywater 130nm PDK
-
-* Magic
-* Netgen
-* OpenROAD
-* Klayout
-* Ngspice
+This documentation describes the steps to install Magic, Netgen, OpenROAD, Klayout and the Skywater 130nm PDK on centos7 and ubuntu20
 
 .. toctree::
    :maxdepth: 2

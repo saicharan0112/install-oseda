@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Linux Tutorial'
+project = 'Guide to install OSEDA tools'
 copyright = '2022, Sai Charan'
 author = 'Sai Charan'
 

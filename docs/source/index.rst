@@ -9,7 +9,7 @@ Guide to Install OSEDA tools
 This documentation describes the steps to install Magic, Netgen, OpenROAD, Klayout and the Skywater 130nm PDK on centos7 and ubuntu20
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 10
 
    centos7
    ubuntu20

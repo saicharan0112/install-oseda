@@ -8,13 +8,15 @@ Welcome to Linux Tutorial's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   centos7
+   ubuntu20
 
+This documentation describes the steps to install the following opensource EDA tools and the Skywater 130nm PDK
 
-Indices and tables
-==================
+* Magic
+* Netgen
+* OpenROAD
+* Klayout
+* Ngspice
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

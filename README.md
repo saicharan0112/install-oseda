@@ -1,1 +1,1 @@
-# linux-tutorial
+# Instructions to install Opensource EDA tools on Centos7 and Ubuntu20

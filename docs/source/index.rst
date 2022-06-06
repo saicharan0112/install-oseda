@@ -6,12 +6,6 @@
 Welcome to Linux Tutorial's documentation!
 ==========================================
 
-.. toctree::
-   :maxdepth: 2
-
-   centos7
-   ubuntu20
-
 This documentation describes the steps to install the following opensource EDA tools and the Skywater 130nm PDK
 
 * Magic
@@ -19,4 +13,10 @@ This documentation describes the steps to install the following opensource EDA t
 * OpenROAD
 * Klayout
 * Ngspice
+
+.. toctree::
+   :maxdepth: 2
+
+   centos7
+   ubuntu20
 

@@ -10,7 +10,7 @@ In this tutorial, it is considered that the installation is happening on a clean
 
 
 Install Magic
---------------
+---------------
 
 First, the magic code repository needs to be cloned to the local machine -
 
@@ -34,7 +34,7 @@ This command will install the binary in the directed location (Default location 
 
 
 Install Netgen
---------------
+----------------
 
 First, the magic code repository needs to be cloned to the local machine -
 
@@ -58,7 +58,7 @@ This command will install the binary in the directed location (Default location 
 
 
 Install OpenROAD
---------------
+------------------
 
 First, clone the OpenROAD git repository on to your local machine. This will also recursively initialize the third-party submodules -
 
@@ -87,7 +87,7 @@ Now move the generated binary from the default location to the /usr/bin so that 
 
 
 Install Skywater 130nm PDK
---------------
+-----------------------------
 
 Similar to above installation process, clone the skywater-pdk git repository from the github -
 
@@ -136,7 +136,7 @@ It is suggested to declare an environment variable which points to the pdk data 
 
 
 Install Klayout
---------------
+-------------------
 
 First, the Yosys code repository needs to be cloned to the local machine -
 
